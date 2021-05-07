@@ -2,4 +2,4 @@
 
 ### Using reinforcement learning to play Blackjack
 
-Team Members: JinJie Chen (jc2554), Mitchel Fung (msf238), Aneesh Heintz (ah2263), Calvin Sowah (cas542)
+Project for Cornell's CS 6700 Class: Advanced Artificial Intelligence
